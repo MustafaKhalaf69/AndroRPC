@@ -16,7 +16,7 @@ https://github.com/mustafakhalaf-git/AndroRPC/wiki/How-to-setup
 
 <H1 align="center">Preview</H1>
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/GitMuslim/AndroRPC/main/images/preview1.png" width="350"/><br/>
+  <img src="https://raw.githubusercontent.com/GitMuslim/AndroRPC/main/images/preview.png" width="350"/><br/>
 <h3>
   
 <H1 align="center">Info</H1>
